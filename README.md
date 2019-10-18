@@ -17,39 +17,38 @@ Contents
 | Blog Post          | Student does not write or publish a data storytelling blog post                                                                             | Student writes and publishes a data storytelling blog post that includes two visualizations and effectively communicates data insights. Blog post should be written for a non-technical audience.                                                                                          | Student blog post is particularly well written, compelling, and consumable by non-technical readers.                                                                                                                                                                    |
 | Portfolio          | Student does not link to blog post from portfolio.                                                                                          | Student links to their blog post from their portfolio site.                                                                                                                                                                                                                                | Student links to their blog post from their portfolio site and also works to share their post on social media.                                                                                                                                                          |
 | Presentation       | Student does not present or provide a recording of a presentation.                                                                          | Student gives a two minute presentation or records a two-minute presentation to their peers.                                                                                                                                                                                               | Student's two-minute presentation is well rehearsed, easy to understand and communicates main ideas within the two minute time limit.                                                                                                                                   |
+**Please Note:** There is no "Sprint Challenge" associated with this Build Week. In order to pass the Build Week, you need to get a score of 2 or higher on **every** section of the rubric above. A score of 1 on any of the objectives will result in a 1 for the entire Sprint.
 
 ## Deliverables
 
-_The project has five parts. For each part, we've listed what's required to pass the Sprint Challenge, and what's recommended but not required._
-
 ### 1. Research Question
-Required
-- Describe your project in 280 characters or less.
-- Choose one data visualization (static image or animated gif) from your blog post.
-- [Annotate your visualization](https://www.dataquest.io/blog/making-538-plots/) so it’s understandable on its own, without reading your blog post.
 
-Recommended
-- Share your short project summary on Twitter or LinkedIn, and link to your blog post
+Be able to communicate your research question in 1 or 2 sentences: 280 characters or less. Your research question is extremely important and you should have one in mind before you set out. This does not mean that your research question can't change or be adapted over time. As you search for available datasets or explore your data you may learn that your question can't be answered with your dataset. That's OK! This is part of the process. Feel free to revise your research question, but at all times you need to know what you're driving at and what you're trying to communicate with your visualizations. You will need to state your research question at the beginning of your two-minute presentation at the end of the sprint.
 
 ### 2. Code
 Required
 - Create Python notebook(s) to wrangle, analyze, and visualize your data.
 - Push your notebook(s) to your GitHub.
+- Final notebook should be clean and organized
+- Notebook should run from top to bottom without errors by the end of the sprint.
 
 Recommended
 - Keep it simple. Don’t use machine learning. (You’ll do this in future projects!)
+- Use helpful inline code comments and markdown where applicable. Your notebook is not your main deliverable, but on ocassion hiring managers may want to see your code after looking at one of your portfolio projects so it's good for it to be presentable.
 
-### 1. Blog post
+### 3. Blog post
 
 Required
 - Choose your own topic and data.
 - Write a blog post with at least two data visualizations, to communicate insights on your topic.
-- Publish your post on Medium or your portfolio site.
+- Publish your post on Medium, your portfolio site or some other publicly accessible webpage.
 - Don’t use data from Kaggle competitions or popular “toy” datasets.
 
 Recommended
 - Don't write a ["wall of text."](https://www.theonion.com/nation-shudders-at-large-block-of-uninterrupted-text-1819571366) Format your post to be [skimmable](https://www.nngroup.com/articles/how-users-read-on-the-web/). Edit it to be [readable](http://www.hemingwayapp.com/).
 - Describe both your insights and your process, but focus more on the insights. Don’t include much code, if any, in your blog post.
+- Remember that you're writing for a non-technical audience that doesn't have training in data science. Imagine that you're writing for an executive or boss at a company who doesn't have code/statistics training. Make the data insights as compelling and consumable as possible.
+- Share your blog post with TLs, instructors, or fellow students to get feedback on it before you publish. Check out the #ds_writers and #medium channels on Slack.
 
 ### 4. Portfolio
 Required
@@ -59,13 +58,17 @@ Required
 Recommended
 - Host your site with GitHub Pages.
 - Include your name, bio, and contact info on your site.
+- Add Google Analytics to your portfolio site and then share your post on social media and watch the pageviews roll in. 
 
 ### 5. Two minute presentation
 Required
 - Give a two minute presentation on Zoom for your cohort.
+- State your research question at the beginning of 
 
 Recommended
-- Practice beforehand, out loud and timed. 
+- Practice beforehand, out loud and timed. Two minutes will go by so much faster than you think it will. The more you rehearse the more awesome and polished your presentation will be. 
+- There will not be sufficient time to go over any code, you'll barely have time to go over the main takeaways from your visualizations in two minutes -trust me. 
+- If you end up including more than two visualizations in your project pick your favorites to talk about as you might not have time to talk about all of them.
 
 
 ## Milestones
@@ -73,33 +76,35 @@ Recommended
 _These milestones are suggested to help you have confidence that you're on track for a great project!_
 
 End of Sprint 2
-- Look at examples of past projects
-- Start your GitHub Pages portfolio site
+- Look at examples of past projects.
+- Start your GitHub Pages portfolio site.
 
-End of Sprint 4
-- Finalize your topic and dataset
-- Write the first draft of your project description, for your short summary
+End of Sprint 3
+- Finalize your topic and dataset.
+- Write the first draft of your research question.
 
-Module 1, Sprint 5
-- Begin to analyze and visualize your data
+Module 1, Sprint 4 (Build Sprint)
+- Begin to analyze and visualize your data. Try and have all data cleaning and reshaping wrapped up by the end of the first day so as to allow you ample time to create super awesome visualizations.
 
-Module 2, Sprint 5 - end of day
-- Revise your description for your short summary
-- Create your first annotated visualization for your short summary
+Module 2, Sprint 4 - end of day
+- Create your first polished explanatory visualization.
 
-Module 4, Sprint 5 — end of day
-- Complete your code and blog post
-- Share your draft with classmates for feedback
+Module 3, Sprint 4 - end of day
+- Create your second polished explanatory visualization.
 
-Before Class - Last day of Sprint 5 
-- Practice your 2 minute presentation
-- Publish your blog post on Medium or GitHub Pages
-- Push your code to GitHub
-- Add your short summary to your porfolio site
-- Link from your portfolio site to your blog post and code
+Module 4, Sprint 4 — end of day
+- Complete your code and blog post.
+- Share your draft with classmates for feedback.
 
-During Class - Last day of Sprint 5
-- Give your 2 minute presentation for your cohort
+Last day of Sprint 4 - before you give your 2 minute presentation
+- Practice your 2 minute presentation.
+- Publish your blog post on Medium or GitHub Pages.
+- Push your code to GitHub.
+- Add a short summary and link to your portfolio project to your portfolio site.
+- Link from your portfolio to your blog post and code.
+
+During Class - Last day of Sprint 4 (Build Week)
+- Give your 2 minute presentation for your cohort.
 
 ## Examples
 
@@ -120,14 +125,6 @@ During Class - Last day of Sprint 5
 ### Portfolio sites — Others
 - [Max Woolf](https://minimaxir.com/): GitHub Pages, Jekyll. Image + short description per project. You don’t need so many projects. He moved from QA Engineer to Data Scientist, without going back to school.
 - [Sara Simon](https://smbsimon.github.io/): GitHub Pages. Former bootcamp student. Just one page, one photo, two paragraphs, six links. Less is more!
-
-### Bios — Lambda DS1
-- [Audrey Taylor-Akwenye](https://audreyakwenye.github.io/aboutme/)
-- [Christopher Tolbert](https://hughjafro.github.io/aboutme/)
-- [Dakota Pope](https://dpgofast.github.io/aboutme/)
-- [Peyton Runyan](https://peytonrunyan.github.io/aboutme/)
-- [Zach Angell](https://zangell44.github.io/aboutme/)
-
 
 ## Select Projects from DS2
 
@@ -160,6 +157,9 @@ During Class - Last day of Sprint 5
 
 - [Micheal Bundick, The Secrets of Catan:](https://medium.com/@bundickm/the-secrets-of-catan-ed203a9a7c61)
 
+---
+
 # Add a link to your portfolio:
+This will assist the TLs in gathering up links to everybody's portfolio site. Remember that we should be able to get to your code on github and your blog post from your portfolio site, so this should be the only link that we need in order to access the rest of your project deliverables.
 
 [Example Link](http://www.dsglossary.com)
