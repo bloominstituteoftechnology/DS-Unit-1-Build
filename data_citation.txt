@@ -1,0 +1,58 @@
+
+gdp
+https://data.oecd.org/gdp/gross-domestic-product-gdp.htm
+Gross domestic product (GDP)Total, US dollars/capita, 1960 – 2018Source: Aggregate National Accounts, SNA 2008 (or SNA 1993): Gross domestic product
+
+Citation
+Please cite this indicator as follows:
+OECD (2019), Gross domestic product (GDP) (indicator). doi: 10.1787/dc2f7aec-en (Accessed on 21 October 2019)
+
+#################
+
+cpi
+
+cpi.csv
+https://data.oecd.org/price/inflation-cpi.htm
+
+Please cite this indicator as follows:
+OECD (2019), Inflation (CPI) (indicator). doi: 
+10.1787/eee82e6e-en (Accessed on 21 October 2019)
+
+#########################
+
+unrate
+https://data.oecd.org/unemp/unemployment-rate.htm
+
+Unemployment rate
+
+Unemployment rateTotal, % of labour force, 2010 – 2018
+
+Citation
+Please cite this indicator as follows:
+OECD (2019), Unemployment rate (indicator). doi: 10.1787/997c8750-en (Accessed on 24 October 2019)
+
+
+#################
+
+employment
+
+https://data.oecd.org/emp/employment-rate.htm
+
+Employment rate
+
+Citation
+Please cite this indicator as follows:
+OECD (2019), Employment rate (indicator). doi: 10.1787/1de68a9b-en (Accessed on 24 October 2019)
+
+####################
+bci
+https://data.oecd.org/leadind/business-confidence-index-bci.htm
+
+Business confidence index (BCI)
+
+Citation
+Please cite this indicator as follows:
+OECD (2019), Business confidence index (BCI) (indicator). doi: 10.1787/3092dc4f-en (Accessed on 24 October 2019)
+
+
+###############
