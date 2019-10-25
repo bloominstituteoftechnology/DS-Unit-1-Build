@@ -161,6 +161,12 @@ During Class - Last day of Sprint 4 (Build Week)
 ---
 
 # Add a link to your portfolio:
-This will assist the TLs in gathering up links to everybody's portfolio site. Remember that we should be able to get to your code on github and your blog post from your portfolio site, so this should be the only link that we need in order to access the rest of your project deliverables.
 
-[Example Link](http://www.dsglossary.com)
+Portfolio Repo (Not the same as my site):
+https://github.com/mvkumar14/Lambda-Portfolio
+Portfolio Site:
+https://mvkumar14.github.io/
+Medium Article:
+https://medium.com/@mvkumar14/balance-metrics-in-overwatch-58f40da3175e
+
+
