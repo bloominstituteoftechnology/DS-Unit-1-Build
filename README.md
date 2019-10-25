@@ -163,4 +163,4 @@ During Class - Last day of Sprint 4 (Build Week)
 # Add a link to your portfolio:
 This will assist the TLs in gathering up links to everybody's portfolio site. Remember that we should be able to get to your code on github and your blog post from your portfolio site, so this should be the only link that we need in order to access the rest of your project deliverables.
 
-[Example Link](http://www.dsglossary.com)
+[Medium Link](https://medium.com/@sabihkhatri5292/are-pit-bulls-more-dangerous-than-other-dogs-8e086f628ef2?source=friends_link&sk=74611a96d81f6aed8f35e5f1361efb9d)
