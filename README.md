@@ -163,4 +163,5 @@ During Class - Last day of Sprint 4 (Build Week)
 # Add a link to your portfolio:
 This will assist the TLs in gathering up links to everybody's portfolio site. Remember that we should be able to get to your code on github and your blog post from your portfolio site, so this should be the only link that we need in order to access the rest of your project deliverables.
 
-[Example Link](http://www.dsglossary.com)
+[Mikhail Seryy Portfolio Link](https://mseryy01.github.io/)
+[Mikhail Seryy Colab Link](https://drive.google.com/open?id=1NbRicxglMtexX3XR__Z6F7y4-bmIPNj-)
