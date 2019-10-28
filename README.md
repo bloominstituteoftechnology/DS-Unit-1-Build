@@ -1,3 +1,21 @@
+My Submission
+- [Portfolio with blog entry link to Medium post](https://rileythejones.github.io/2019-10-25-post/)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # DS Data Storytelling Portfolio Project
 
 Contents
