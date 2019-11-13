@@ -161,6 +161,6 @@ During Class - Last day of Sprint 4 (Build Week)
 ---
 
 # Add a link to your portfolio:
-This will assist the TLs in gathering up links to everybody's portfolio site. Remember that we should be able to get to your code on github and your blog post from your portfolio site, so this should be the only link that we need in order to access the rest of your project deliverables.
+Medium blog: [Global Suicide Trend](https://medium.com/@tky_3774/global-suicide-trend-from-1985-to-2015-65d8046aeca3)
 
-[Example Link](http://www.dsglossary.com)
+
