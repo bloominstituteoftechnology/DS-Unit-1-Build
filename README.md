@@ -1,5 +1,5 @@
 # DS Data Storytelling Portfolio Project
-
+   
 Contents
 - [Rubric](#rubric)
 - [Deliverables](#deliverables)
