@@ -13,6 +13,7 @@
 
 * Is average trip length affected by plan type?
 
+<br> 
 
 * Do weekly ridership patterns vary by plan type?
 
