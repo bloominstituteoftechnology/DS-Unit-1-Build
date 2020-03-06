@@ -2,7 +2,7 @@
 
 @title[Measuring the last mile]
 
-@snap[east span-50 text-center h2-78d64b]
+@snap[east span-50 text-center h2-yellowgreen]
 ## Measuring
 ## the
 ## Last
