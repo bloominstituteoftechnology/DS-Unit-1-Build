@@ -28,8 +28,8 @@
 
 ---?image=assets/img/metro-bike-share-ride-day-types.png&size=75%
 
----?image=https://upload.wikimedia.org/wikipedia/commons/4/4e/LACMTA-Logo.png&size=25%&position=center 
+---?image=https://upload.wikimedia.org/wikipedia/commons/4/4e/LACMTA-Logo.png&size=10%&position=center 
 
-@snap[east span-30 text-center h3-gray]
+@snap[center span-100 text-center h3-gray]
 ### Riders may benefit from service options which more closely fit their lifestyles
 @snapend
