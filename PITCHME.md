@@ -1,8 +1,13 @@
 ---?image=assets/img/bike-stop-map.png&size=50% 
 
-@title[Measuring the Last Mile]
+@title[Measuring the last mile]
 
 @snap[east span-50 text-center]
+## Measuring
+#### the
+#### Last
+### Mile
+@snapend
 
 
 ---?image=assets/img/metro-bike-share-trip-duration.png&size=75%
