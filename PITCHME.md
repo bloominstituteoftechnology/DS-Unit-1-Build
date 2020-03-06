@@ -34,6 +34,8 @@
 ### Current service options may not be an optimal fit for the lifestyles of riders
 @snapend
 
----
+---?color=black
 
+@snap[east span-100 text-center h1-white]
 # Thanks
+@snapend
