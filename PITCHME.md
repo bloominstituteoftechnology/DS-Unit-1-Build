@@ -27,3 +27,7 @@
 
 
 ---?image=assets/img/metro-bike-share-ride-day-types.png&size=75%
+
+--- 
+
+Riders may benefit from service options which more closely fit their lifestyles
