@@ -1,11 +1,11 @@
----?image=assets/img/bike-stop-map.png&size=50% 
+---?image=assets/img/bike-stop-map.png&size=50%&position=left
 
 @title[Measuring the last mile]
 
 @snap[east span-50 text-center]
-## Measuring
-#### the
-#### Last
+### Measuring
+### the
+### Last
 ### Mile
 @snapend
 
