@@ -30,4 +30,6 @@
 
 --- 
 
-Riders may benefit from service options which more closely fit their lifestyles
+@snap[center span-50 text-center h2-gray]
+## Riders may benefit from service options which more closely fit their lifestyles
+@snapend
