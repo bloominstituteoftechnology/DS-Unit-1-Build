@@ -31,5 +31,5 @@
 ---
 
 @snap[center span-100 text-center h3-gray]
-### Riders may benefit from service options which more closely fit their lifestyles
+### Current service options may not be an optimal fit for the lifestyles of riders
 @snapend
