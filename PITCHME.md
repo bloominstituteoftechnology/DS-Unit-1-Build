@@ -1,10 +1,10 @@
----?image=assets/img/bike-stop-map.png
+---?image=assets/img/bike-stop-map.png&size=50 @title[Measuring the Last Mile]
 
 
 
----?image=assets/img/metro-bike-share-trip-duration.png
+---?image=assets/img/metro-bike-share-trip-duration.png&size=75
 
 
 
 
----?image=assets/img/metro-bike-share-ride-day-types.png
+---?image=assets/img/metro-bike-share-ride-day-types.png&size=75
