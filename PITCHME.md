@@ -2,11 +2,11 @@
 
 @title[Measuring the last mile]
 
-@snap[east span-50 text-center]
-### Measuring
-### the
-### Last
-### Mile
+@snap[east span-50 text-center text-yellowgreen]
+## Measuring
+## the
+## Last
+## Mile
 @snapend
 
 
