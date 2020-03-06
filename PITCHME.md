@@ -15,13 +15,13 @@
 ## Questions
 @snapend
 
+<br>
 
-
-* Is average trip length affected by plan type?
+1. Is average trip length affected by plan type?
 
 <br> 
 
-* Do weekly ridership patterns vary by plan type?
+2. Do weekly ridership patterns vary by plan type?
 
 
 ---?image=assets/img/metro-bike-share-trip-duration.png&size=75%
