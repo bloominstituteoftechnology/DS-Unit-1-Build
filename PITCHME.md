@@ -11,6 +11,12 @@
 
 ---
 
+@snap[center span-50 text-center h2-gray]
+## Questions
+@snapend
+
+
+
 * Is average trip length affected by plan type?
 
 <br> 
