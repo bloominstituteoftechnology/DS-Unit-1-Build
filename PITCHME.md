@@ -33,3 +33,7 @@
 @snap[center span-100 text-center h3-gray]
 ### Current service options may not be an optimal fit for the lifestyles of riders
 @snapend
+
+---
+
+# Thanks
