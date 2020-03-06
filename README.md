@@ -1,4 +1,6 @@
 # DS Data Storytelling Portfolio Project
+
+**Blog post**: https://alex-pakalniskis.github.io/journal/measuring-the-last-mile.html
    
 Contents
 - [Rubric](#rubric)
