@@ -1,4 +1,19 @@
-# DS Data Storytelling Portfolio Project
+# The following is a standard rubric
+
+## The rubric was proposed by Lambda School.  The purpose of this rubric is to create a story telling portfolio piece to showcase one's ability to explore, manipulate, analyze, and visualize data.
+ - The analysis and dataset utilzed in this project are entirely of my own creation.
+ - The dataset was exported from the SleepCycle app as a csv file.
+
+
+
+
+
+
+
+
+
+
+## DS Data Storytelling Portfolio Project
 
 Contents
 - [Rubric](#rubric)
